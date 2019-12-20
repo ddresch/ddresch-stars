@@ -235,7 +235,7 @@
 | 26 |  [outline](https://github.com/outline/outline) | The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source. | outline | 6337 |
 | 27 |  [freedrum.js](https://github.com/charliegerard/freedrum.js) | Interact with the browser using the Freedrum sensors in JavaScript | charliegerard | 105 |
 | 28 |  [urlpages](https://github.com/jstrieb/urlpages) | Create and view web pages stored entirely in the URL | jstrieb | 1118 |
-| 29 |  [tesseract.js](https://github.com/naptha/tesseract.js) | Pure Javascript OCR for more than 100 Languages 📖🎉🖥 | naptha | 18598 |
+| 29 |  [tesseract.js](https://github.com/naptha/tesseract.js) | Pure Javascript OCR for more than 100 Languages 📖🎉🖥 | naptha | 18599 |
 | 30 |  [digitaljs](https://github.com/tilk/digitaljs) | Teaching-focused digital circuit simulator | tilk | 398 |
 | 31 |  [flappy-windows](https://github.com/charliegerard/flappy-windows) | Flappy Bird with browser windows | charliegerard | 136 |
 | 32 |  [readme-md-generator](https://github.com/kefranabg/readme-md-generator) | 📄 CLI that generates beautiful README.md files | kefranabg | 6742 |
@@ -575,7 +575,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [email-marketing-regulations](https://github.com/threeheartsdigital/email-marketing-regulations) | A repository of email marketing legislation around the World, compiled by EmailOctopus. | threeheartsdigital | 259 |
 | 2 |  [Flexbox30](https://github.com/samanthaming/Flexbox30) | Learn Flexbox in 30 days with 30 code tidbits ✨ | samanthaming | 830 |
-| 3 |  [notable](https://github.com/notable/notable) | The Markdown-based note-taking app that doesn't suck. | notable | 13566 |
+| 3 |  [notable](https://github.com/notable/notable) | The Markdown-based note-taking app that doesn't suck. | notable | 13567 |
 | 4 |  [javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations :sparkles: | lydiahallie | 13247 |
 | 5 |  [Mathematics_for_Beginners](https://github.com/llSourcell/Mathematics_for_Beginners) | This is the formula sheet for &#34;Mathematics for Beginners&#34; by Siraj Raval on Youtube | llSourcell | 482 |
 | 6 |  [hacker-laws](https://github.com/dwmkerr/hacker-laws) | 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws | dwmkerr | 10168 |
